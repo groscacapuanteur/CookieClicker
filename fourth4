@@ -1,0 +1,8 @@
+let score = 0;
+const scoreDisplay = document.getElementById("score");
+const cookieBtn = document.getElementById("cookie");
+
+cookieBtn.addEventListener("click", () => {
+  score++;
+  scoreDisplay.textContent = score;
+});
