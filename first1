@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Accueil - Clicker Game</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Bienvenue dans le jeu Clicker !</h1>
+    <p>Clique sur le bouton ci-dessous pour commencer à jouer.</p>
+    <a href="game.html" class="button">Jouer</a>
+  </div>
+</body>
+</html>
